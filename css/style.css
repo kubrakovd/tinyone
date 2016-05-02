@@ -298,6 +298,14 @@ textarea {
 }
 /* footer */
 
+.ba-footer {
+	margin: 0;
+
+	padding-bottom: 120px;
+
+
+}
+
 .ba-footer__adress {
 	color:  #ffffff;
 	font-size: 16px;
@@ -316,4 +324,5 @@ textarea {
 	word-wrap: normal;
 	margin-top: 60px;
 	text-align: left;
+
 }
